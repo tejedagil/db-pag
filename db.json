@@ -1,22 +1,57 @@
-[
+{
+  "links": {
+    "discord": "tomass#9642",
+    "youtube": "https://www.youtube.com/channel/UCv_lx9tFcQmsA0Df9zPlMrw",
+    "steam": "https://steamcommunity.com/id/Kxaaay/"
+  },
+  "videos": [
   {
     "id": "1",
-    "src": "ZM8HLDEOEtA"
+    "src": "UVoXbAPY8Dk"
   },
   {
     "id": "2",
-    "src": "gdjWqL9Ors4"
+    "src": "GlrSs5N0fas"
   },
   {
     "id": "3",
-    "src": "dlmJM6edAzc"
+    "src": "lT_lqh2PFik"
   },
   {
     "id": "4",
-    "src": "1qAYR8CkX18"
+    "src": "HQvbw0nBeso"
   },
   {
     "id": "5",
-    "src": "X8LWuzMAXHc"
+    "src": "W7lGXireG7I"
+  },
+  {
+    "id": "6",
+    "src": "HOh-3lUPTx0"
+  },
+  {
+    "id": "7",
+    "src": "awkkyBH2zEo"
+  },
+  {
+    "id": "8",
+    "src": "MR2fmdqSxZ8"
+  },
+  {
+    "id": "9",
+    "src": "UVoXbAPY8Dk"
+  },
+  {
+    "id": "10",
+    "src": "VWbIEIdNl-Y"
+  },
+  {
+    "id": "11",
+    "src": "lQqG6JfSNuY"
+  },
+  {
+    "id": "12",
+    "src": "MaaEVFNDQLo"
   }
 ]
+}
